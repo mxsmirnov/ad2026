@@ -1,0 +1,13 @@
+name,ring,quadrant,isNew,description
+Qdrant,Adopt,Tools,FALSE,Vector search database with filtering and similarity search for retrieval-augmented applications.
+pgvector,Adopt,Tools,FALSE,PostgreSQL extension for storing vectors and running similarity queries.
+Redis,Adopt,Tools,FALSE,In-memory data store for caching session state and agent working memory.
+LangGraph,Trial,Tools,TRUE,Framework for stateful and long-running agent workflows.
+Mem0,Trial,Tools,TRUE,Memory layer for retaining and retrieving information across agent interactions.
+Zep,Trial,Tools,TRUE,Agent memory platform for contextual retrieval across conversations.
+Weaviate,Trial,Tools,FALSE,Vector database for semantic search and hybrid retrieval.
+Milvus,Assess,Tools,FALSE,Distributed vector database for large-scale similarity search.
+Pinecone,Assess,Tools,FALSE,Managed vector database service for similarity search.
+Letta,Assess,Tools,TRUE,Framework for agents with persistent and structured memory.
+LlamaIndex,Assess,Tools,FALSE,Framework for connecting agents and language models to external data.
+Chroma,Hold,Tools,FALSE,Embedded vector database; review operational requirements before production adoption.
