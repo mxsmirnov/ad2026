@@ -6,7 +6,7 @@ description: Documents architecture decisions as Y-Statement ADRs (Architecture 
 
 # Y-Statement ADR
 
-Создавай ADR по описанию архитектурного решения.
+Создай запись архитектурного решения ADR.
 
 ## Порядок работы
 
