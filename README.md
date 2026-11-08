@@ -19,3 +19,9 @@
 | `v0.7-techradar` | Добавлена сверка технологий решения с локальным Tech Radar (`references/techradar.csv`): ринг, квадрант и роль технологии; результат пишется в `trace.md`; добавлен демонстрационный CSV из 10 технологий. |
 
 ## Полезные ссылки
+- [Agent Skills](https://agentskills.io/)
+- [The Complete Guide to Building Skills for Claude](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf)
+- [5 Agent Skill design patterns](https://x.com/GoogleCloudTech/status/2033953579824758855)
+- [Introducing SkillsBench: The First Benchmark for Agent Skills](https://www.skillsbench.ai/blogs/introducing-skillsbench#self-generated-skills-barely-help) 
+
+
